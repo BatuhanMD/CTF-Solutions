@@ -5,7 +5,7 @@ Bu repo, TryHackMe ve Hack The Box gibi platformlarda çözdüğüm CTF (Capture
 ## İçindekiler
 
 - **AnonymousCTF.md**: [AnonymousCTF](AnonymousCTF.md) adlı CTF'nin çözüm adımları.
-
+- **BrooklynNineNineCTF.md**: [BrooklynNineNineCTF](BrooklynNineNineCTF.md) adlı CTF'nin çözüm adımları.
 
 
 
