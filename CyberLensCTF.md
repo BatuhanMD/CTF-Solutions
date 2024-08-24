@@ -53,11 +53,11 @@ gobuster dir -u http://Machine_IP -w /usr/share/wordlists/dirbuster/directory-li
 ```
 Sonuç:
 ```bash
-/images               (Status: 301) [Size: 236] [--> http://10.10.147.226/images/]
-/Images               (Status: 301) [Size: 236] [--> http://10.10.147.226/Images/]
-/css                  (Status: 301) [Size: 233] [--> http://10.10.147.226/css/]                                                                           
-/js                   (Status: 301) [Size: 232] [--> http://10.10.147.226/js/]                                                                            
-/IMAGES               (Status: 301) [Size: 236] [--> http://10.10.147.226/IMAGES/]                                                                        
+/images               (Status: 301) [Size: 236] [--> http://Machine_IP/images/]
+/Images               (Status: 301) [Size: 236] [--> http://Machine_IP/Images/]
+/css                  (Status: 301) [Size: 233] [--> http://Machine_IP/css/]                                                                           
+/js                   (Status: 301) [Size: 232] [--> http://Machine_IP/js/]                                                                            
+/IMAGES               (Status: 301) [Size: 236] [--> http://Machine_IP/IMAGES/]                                                                        
 ```
 ## 6.Adım Apache Tika Exploit'i Kullanarak Sistem Erişimi
 Dizinlerin birinde Apache Tika'nın versiyonunu belirledikten sonra, msfconsole kullanarak zaafiyeti bulup exploit ettim.
