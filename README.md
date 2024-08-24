@@ -6,6 +6,7 @@ Bu repo, TryHackMe ve Hack The Box gibi platformlarda çözdüğüm CTF (Capture
 
 - **AnonymousCTF.md**: [AnonymousCTF](AnonymousCTF.md) adlı CTF'nin çözüm adımları.
 - **BrooklynNineNineCTF.md**: [BrooklynNineNineCTF](BrooklynNineNineCTF.md) adlı CTF'nin çözüm adımları.
+- **CyberLensCTF.md**: [CyberLensCTF](CyberLensCTF.md) adlı CTF'nin çözüm adımları.
 
 
 
