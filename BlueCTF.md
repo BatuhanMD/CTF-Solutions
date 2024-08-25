@@ -1,4 +1,4 @@
-# Blue CTF Solution
+# Blue CTF 
 
 ## 1.Adım Ping Taraması
 ```bash
