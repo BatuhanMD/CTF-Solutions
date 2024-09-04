@@ -9,6 +9,7 @@ Bu repo, TryHackMe ve Hack The Box gibi platformlarda çözdüğüm CTF (Capture
 - **CyberLensCTF.md**: [CyberLensCTF](CyberLensCTF.md) adlı CTF'nin çözüm adımları.
 - **BlueCTF.md**: [BlueCTF](BlueCTF.md) adlı CTF'nin çözüm adımları.
 - **BreakingRSA-CTF.md**: [BreakingRSA-CTF](BreakingRSA-CTF.md) adlı CTF'nin çözüm adımları.
+- **MrRobotCTF.md**:[MrRobotCTF](MrRobotCTF.md) adlı CTF'nin çözüm adımları.
 
 
 
