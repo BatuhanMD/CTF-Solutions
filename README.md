@@ -10,6 +10,6 @@ Bu repo, TryHackMe ve Hack The Box gibi platformlarda çözdüğüm CTF (Capture
 - **BlueCTF.md**: [BlueCTF](BlueCTF.md) adlı CTF'nin çözüm adımları.
 - **BreakingRSA-CTF.md**: [BreakingRSA-CTF](BreakingRSA-CTF.md) adlı CTF'nin çözüm adımları.
 - **MrRobotCTF.md**: [MrRobotCTF](MrRobotCTF.md) adlı CTF'nin çözüm adımları.
-
+- **BasicPentestingCTF.md**: [BasicPentestingCTF](BasicPentestingCTF.md) adlı CTF'nin çözüm adımları.
 
 
